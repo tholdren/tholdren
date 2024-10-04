@@ -1,7 +1,18 @@
 # Tristan Holdren
 
+Student at **Eastern Washington University**
 
-## Hi there 👋
+## Skills
+
+- Web Development
+- Web Design
+- Print Design
+
+## Education
+- *Spokane Falls Community College* **'21 - '24**
+- *Eastern Washington University* **'24 - Present**
+
+
 
 <!--
 **tholdren/tholdren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
