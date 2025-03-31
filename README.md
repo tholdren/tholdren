@@ -26,7 +26,7 @@ Student at **Eastern Washington University**
 - *Spokane Falls Community College* **'21 - '24**
 - *Eastern Washington University* **'24 - Present**
 
-## 📫 Let's Connect
+## Let's Connect 📫
 Feel free to reach out or check out what I’m working on!
 
 [🔗 LinkedIn](https://www.linkedin.com/in/tristan-holdren-43178525a/) | [🌐 Portfolio (Coming Soon)]()
