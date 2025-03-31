@@ -4,7 +4,7 @@
 
 # Hello! I'm Tristan Holdren 👋
 
-Student at **Eastern Washington University**
+I'm currently a Graphic Design / Web Design major at **Eastern Washington University**, passionate about blending creativity with clean, user-friendly code.
 
 ## Skills 🤓
 
