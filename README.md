@@ -29,7 +29,7 @@ I'm currently a Graphic Design / Web Design major at **Eastern Washington Univer
 ## Let's Connect 📫
 Feel free to reach out or check out what I’m working on!
 
-[🔗 LinkedIn](https://www.linkedin.com/in/tristan-holdren-43178525a/) | [🌐 Portfolio (Coming Soon)]()
+[🔗 LinkedIn](https://www.linkedin.com/in/tristan-holdren-43178525a/) | [🌐 Portfolio (Coming Soon)]() | [CodePen](https://codepen.io/tholdren)
 
 
 
